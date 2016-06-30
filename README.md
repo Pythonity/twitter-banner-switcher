@@ -45,7 +45,7 @@ thing:
 $ twitter-banner-switcher
 ```
 
-### Example auth file
+### Example config file
 ```yaml
 $ cat twitter-banner-switcher.yaml
 consumer_key: "Twitter consumer key"
@@ -57,6 +57,10 @@ banner_images:
     - "/home/bender/Photos/Awesome Twitter Banners/"
     - "/home/bender/Downloaded/planet_express.png"
 ```
+
+Note: `banner_images` can be a path or a list of paths (to directories
+containing images or directly to image files). Recognized formats are `gif`,
+`jpg`, `jpeg` and `png`.
 
 ## Contributions
 Package source code is available at [GitHub][tbs github].
