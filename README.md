@@ -8,12 +8,12 @@ image from a specified folder or a list of paths.
 
 ## Installation
 With `PyPI` (recommended):
-```
+```shell
 $ pip3 install twitter-banner-switcher
 ```
 
 With `git clone`:
-```
+```shell
 $ git clone https://github.com/Pythonity/twitter-banner-switcher
 $ pip3 install -r twitter-banner-switcher/requirements.txt
 $ cd twitter-banner-switcher/bin
@@ -36,17 +36,17 @@ Options:
 
 ## Examples
 Not much to show here - you can provide path to config file:
-```
+```shell
 $ twitter-banner-switcher -c twitter-banner-switcher.yaml
 ```
 or save it at `~/.twitter-banner-switcher.yaml` and just run the damn
 thing:
-```
+```shell
 $ twitter-banner-switcher
 ```
 
 ### Example auth file
-```
+```yaml
 $ cat twitter-banner-switcher.yaml
 consumer_key: "Twitter consumer key"
 consumer_secret: "Twitter consumer secret"
