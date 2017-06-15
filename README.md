@@ -69,12 +69,12 @@ Feel free to use, ask, fork, star, report bugs, fix them, suggest
 enhancements and point out any mistakes.
 
 ## Authors
-Developed and maintained by [Pythonity][pythonity].
+Developed and maintained by [Pythonity][pythonity], a group of Python enthusiasts who love open source, have a neat [blog][pythonity blog] and are available [for hire][pythonity].
 
 Written by [Paweł Adamczak][pawelad].
 
 [tbs github]: https://github.com/Pythonity/twitter-banner-switcher
 [tbs pypi]: https://pypi.python.org/pypi/twitter-banner-switcher
 [license]: https://github.com/Pythonity/twitter-banner-switcher/blob/master/LICENSE
-[pythonity]: http://pythonity.com/
+[pythonity]: https://pythonity.com/
 [pawelad]: https://github.com/pawelad
