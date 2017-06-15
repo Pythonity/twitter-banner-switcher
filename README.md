@@ -77,4 +77,5 @@ Written by [Paweł Adamczak][pawelad].
 [tbs pypi]: https://pypi.python.org/pypi/twitter-banner-switcher
 [license]: https://github.com/Pythonity/twitter-banner-switcher/blob/master/LICENSE
 [pythonity]: https://pythonity.com/
+[pythonity blog]: http://blog.pythonity.com/
 [pawelad]: https://github.com/pawelad
